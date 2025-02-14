@@ -17,7 +17,7 @@ Image size: ~400MB
 
 https://autosd.sig.centos.org/AutoSD-9/nightly/sample-images/auto-osbuild-qemu-cs9-qa-ostree-x86_64-946743607.247784c5.qcow2.xz
 
-Note: The minimal image would be around 180MB, but is missing SSH and package manager.
+Note: The minimal image would be around 180MB, but is missing SSH and package manager. Latest nightly sample images can be found over here: https://autosd.sig.centos.org/AutoSD-9/nightly/sample-images/
 
 Build:
 
